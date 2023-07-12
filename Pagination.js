@@ -9,10 +9,10 @@ data.push(["Kathan Shah", "21CE126","21ce126@charusat.edu.in", "7.05 CGPA"]);
 data.push(["Manan Patel", "21CE096","21ce096@charusat.edu.in", "7.10 CGPA"]);
 data.push(["Nishil Patel", "21CE101","21ce101@charusat.edu.in", "7.11 CGPA"]);
 data.push(["Kalpit Patel", "21CE096","21ce096@charusat.edu.in", "7.06 CGPA"]);
-data.push(["Ramya Patel", "21CE183","21ce183@charusat.edu.in", "7.21 CGPA"]);
-data.push(["Dhruvi Makati", "21CE182","21ce182@charusat.edu.in", "7.19 CGPA"]);
-data.push(["Diya Patel", "21CE183","21ce0183@charusat.edu.in", "7.15 CGPA"]);
-data.push(["Manali Patel", "21CE184","21ce184@charusat.edu.in", "7.20 CGPA"]);
+data.push(["Ramya Patel", "D22CE183","21ce183@charusat.edu.in", "7.21 CGPA"]);
+data.push(["Dhruvi Makati", "D22CE182","21ce182@charusat.edu.in", "7.19 CGPA"]);
+data.push(["Diya Patel", "D22CE183","21ce0183@charusat.edu.in", "7.15 CGPA"]);
+data.push(["Manali Patel", "D22CE184","21ce184@charusat.edu.in", "7.20 CGPA"]);
 
 function load() {
   console.warn("loaded");
